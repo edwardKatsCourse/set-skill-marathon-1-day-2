@@ -10,10 +10,10 @@
 
 
 <!-- SET-SKILL PROGRAMMING -->
-##Set-Skill Programming  
+## Set-Skill Programming  
 
-###Marathon  
-####Day 2  
+### Marathon  
+#### Day 2  
 
 - Code structure
 - Main method + program lifecycle
